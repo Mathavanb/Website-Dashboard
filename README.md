@@ -23,10 +23,10 @@ The UI is inspired by modern SaaS dashboards and provides an excellent foundatio
 Below are the sample UI outputs generated using **index.html** and **styles.css**.
 
 ### **Dashboard – View 1**
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](images/image0.png)
 
 ### **Dashboard – View 2**
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](images/image1.png)
 
 ---
 
